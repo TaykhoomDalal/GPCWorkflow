@@ -6,8 +6,8 @@
 ## Requirements
 
 ```
-git clone https://github.com/TaykhoomDalal/GPCWorkflow
-cd GPCWorkflow
+git clone https://github.com/TaykhoomDalal/PathogenicityAssessor.git
+cd PathogenicityAssessor
 pip install -r requirements.txt
 ```
 ## Contact
