@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # my personal OncoKBAPI Token
-code/pathogenicity_classifier/preprocess/oncokbAPIToken.txt
+workflow_code/preprocess/oncokbAPIToken.txt
