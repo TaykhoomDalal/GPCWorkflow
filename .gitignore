@@ -133,3 +133,6 @@ workflow_code/preprocess/oncokbAPIToken.txt
 
 #ignore concatenated dbscSNV file
 workflow_code/preprocess/annotation_files/dbscSNV/ALL_dbscSNV1.1.gz
+
+#ignore hg38 for spliceai
+workflow_code/classification/hg38.fa
